@@ -18,6 +18,8 @@
 
 3. Show keyboard when first default input field is in focus
 
+4. Add Quantity field to multiple the weight by the number of items
+
 
 ### v2.0.0 ###
 
